@@ -24,3 +24,45 @@ Cukup mudah untuk menjalankan kode JavaScript mirip dengan penulisan bahasa pemr
 </html>
 ```
 
+Jika kamu jalankan maka Akan menampilkan sebuah *Pemberitahuan Sederhana* yang menampilkan kalimat "ini kode-pertama", seperti ini: 
+
+![alert](/Users/fahri/Projects/books/javascript-for-everything/assets/alert.png)
+
+
+
+## 2.2 Komentar
+
+## 2.3 Variable (Var, Const, Let)
+
+## 2.4 Tipe Data (Int, String, Float, Bool, Array, Null)
+
+## 2.5 Operator (+, -, /, *, %)
+
+## 2.6 Seleksi Kondisi (If, Else, Else If, Switch Case)
+
+## 2.7 Perulangan (For, ForEach, While)
+
+## 2.8 Fungsi (Function, Arrow Function)
+
+## 2.9 Fungsi String (Split, toLower, toUpper)
+
+## 2.10 Fungsi Array (Map, Find, FindIndex, Includes, ...)
+
+## 2.11 Regex
+
+## 2.12 Object Oriented Programming
+
+## 2.13 Unit Testing
+
+## 2.14 DOM
+
+## 2.15 Standarisasi ES
+
+
+
+
+
+
+
+
+
